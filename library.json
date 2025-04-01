@@ -1,0 +1,12 @@
+{
+    "name": "mqtt",
+    "version": "1.1.6",
+    "build": {
+      "srcFilter": [
+        "-<examples/**>",
+        "+<*.c>"
+      ]
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}  
